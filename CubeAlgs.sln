@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeAlgs", "CubeAlgs\CubeAlgs.csproj", "{AF464E81-8C2E-4695-A52B-47F71219081F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeAlgs.Data", "CubeAlgs.Data\CubeAlgs.Data.csproj", "{E2DDC5C0-AA87-4E5B-88D4-642D32930094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF464E81-8C2E-4695-A52B-47F71219081F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF464E81-8C2E-4695-A52B-47F71219081F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF464E81-8C2E-4695-A52B-47F71219081F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF464E81-8C2E-4695-A52B-47F71219081F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2DDC5C0-AA87-4E5B-88D4-642D32930094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DDC5C0-AA87-4E5B-88D4-642D32930094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DDC5C0-AA87-4E5B-88D4-642D32930094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DDC5C0-AA87-4E5B-88D4-642D32930094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5E23895-6D10-4C6E-AB2B-172637C30C5D}
+	EndGlobalSection
+EndGlobal
